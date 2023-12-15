@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+    
+body{
+    background-image: linear-gradient(to bottom right,#0670ad, #1f0141);
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+#socialShareImg{
+    display: none;
+}
+
+
